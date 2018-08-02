@@ -31,4 +31,16 @@ $(QTDIR)\plugins\platforms
 
 
 
+从 http://opensource.spotify.com/cefbuilds/index.html 下载 cef_binary_3.3440.1803.gde363ee_windows32.tar.bz2 编译出 MT 版的 libcef_dll_wrapper.lib
+
+3rdparty\cef3440\include
+3rdparty\cef3440\lib
+
+libcef.lib
+cef_sandbox.lib
+libcef_dll_wrapper.lib
+
+
+
+
 
